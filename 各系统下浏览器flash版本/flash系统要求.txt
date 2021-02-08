@@ -1,0 +1,8 @@
+Microsoft® Windows®
+32 位和 64 位（除非另外说明）：Microsoft® Windows® XP SP3（32 位）、Windows Vista®（32 位）、Windows 7、Windows 8.1. 和 Windows 10
+最新版 Microsoft Internet Explorer
+低于88版本内核的Microsoft Edge、Google Chrome
+低于85版本的Mozilla Firefox
+Mac OS
+Mac OS X 10.10 版或更高版本
+低于14版本的Safari、低于85版本的Mozilla Firefox、低于88版本内核的Google Chrome
